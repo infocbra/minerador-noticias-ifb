@@ -1,3 +1,4 @@
+import urllib
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
@@ -14,13 +15,16 @@ class Funcoes:
 
 	#Testa a página se esta online
 	def pegaPagina(self,url):
-		print(url)
 		try:
 			resposta = urlopen(url)
 			soup = BeautifulSoup(resposta.read(), "html.parser")
 			return soup
-		except:
-			print("erro na função pega pagina")
+		except urllib.error.HTTPError as err:
+			if err.code == 404:
+				pass
+			else:
+				print("erro na função pega pagina")
+				raise
 
 	#Busca a hora/data 
 	def buscarHorario(self,soup):
