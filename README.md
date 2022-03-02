@@ -6,6 +6,7 @@ O **Bot Minerador do IFB** foi desenvolvido para atuar dentro dos canais oficiai
 
 Busca por novas notícias em cada campus dentro do Portal IFB, e se houver, as envia dentro do seu respectivo canal no Telegram.
 
+
 ## Status do Projeto
 > Concluído :heavy_check_mark:
 
