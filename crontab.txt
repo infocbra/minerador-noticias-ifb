@@ -1,1 +1,3 @@
-0,30 * * * * sudo docker run -d -v /home/ubuntu/Minarador_IFB/files:/src --rm -$
+0,30 * * * * sudo docker run -d -v /home/ubuntu/miner-ifb/files:/src --rm imagem-miner:latest > /home/ubuntu/miner-ifb/log.txt 2>&1
+
+20,50 *  * * * sudo docker run -d -v /home/ubuntu/miner-ifb/files:/backup --rm auto-backup-miner:latest > /home/ubuntu/miner-ifb/log.txt 2>&1
