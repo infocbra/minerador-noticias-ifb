@@ -17,8 +17,8 @@ campuses_info = {
         'channel': '@ifb_cbra',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/brasilia',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -27,8 +27,8 @@ campuses_info = {
         'channel': '@ifb_ccei',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/campus-ceilandia',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -37,8 +37,8 @@ campuses_info = {
         'channel': '@ifb_cest',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/campus-estrutural',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -47,8 +47,8 @@ campuses_info = {
         'channel': '@ifb_cgam',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/gama',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -57,8 +57,8 @@ campuses_info = {
         'channel': '@ifb_cpla',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/planaltina',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -67,8 +67,8 @@ campuses_info = {
         'channel': '@ifb_crem',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/recantodasemas',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -77,8 +77,8 @@ campuses_info = {
         'channel': '@ifb_crfi',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/riachofundo',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -87,8 +87,8 @@ campuses_info = {
         'channel': '@ifb_csam',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/samambaia',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -97,8 +97,8 @@ campuses_info = {
         'channel': '@ifb_cssb',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/saosebastiao',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
@@ -107,8 +107,8 @@ campuses_info = {
         'channel': '@ifb_ctag',
         'links': {
             'campus_news': 'https://www.ifb.edu.br/taguatinga',
-            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/portal-do-aluno/estagio/boletins-de-estagio',
-            'espaco_do_estudante_news': 'https://www.ifb.edu.br/portal-do-aluno/noticias',
+            'espaco_do_estudante_estagio': 'https://www.ifb.edu.br/espaco-do-estudante/estagio/boletins-de-estagio',
+            'espaco_do_estudante_news': 'https://www.ifb.edu.br/espaco-do-estudante/noticias',
             'estude_no_ifb_news': 'https://www.ifb.edu.br/estude-no-ifb/noticias'
         },
     },
